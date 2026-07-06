@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=SearchAlgorithms
+comment1.params=products\ id
+comment1.target=Product\ linearSearch(Product[],\ int)
+comment2.params=products\ id
+comment2.target=Product\ binarySearch(Product[],\ int)
+numComments=3
